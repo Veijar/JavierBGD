@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JavierBGD
+- 👋 Hi, I’m @Veijar
 - 👀 I’m interested in ... Dev
 - 🌱 I’m currently learning ... AI
 - 💞️ I’m looking to collaborate on ... Open Source
